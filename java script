@@ -1,0 +1,7 @@
+let numero1 = Number(  prompt("digite_um_numero")  );  
+
+let numero2 =Number (prompt("digite_o_segundo "));
+
+if(  (numero1 + numero2) >  100 ) {
+  console.log(100);
+}
